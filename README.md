@@ -7,6 +7,8 @@ Current solutions available:
 
 Chapter 4: 4.2, 4.4, 4.47, 4.48
 
-Chapter 12: 12.11
-
 Chapter 5: 5.7, 5.8
+
+Chapter 10: 10.24, 10.25
+
+Chapter 12: 12.11
