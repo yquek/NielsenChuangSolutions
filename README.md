@@ -2,7 +2,7 @@
 
 This repo is meant to complement other partially-complete attempts at creating a solution manual for Nielsen and Chuang, such as https://github.com/goropikari/SolutionForQuantumComputationAndQuantumInformation.
 
-There is of course no guarantee that my solutions are correct. If you spot an error, please shoot me an email at yquek@stanford.edu.
+There is of course no guarantee that my solutions are correct. If you spot an error, please shoot me an email at yquek[at]stanford[dot]edu.
 
 Current solutions available in this repo:
 
