@@ -1,5 +1,4 @@
-# NielsenChuangSolutions
-Solutions to Quantum Computation and Quantum Information, 10th Anniversary Edition. 
+# Solutions manual to Nielsen and Chuang's Quantum Computation and Quantum Information, 10th Anniversary Edition. 
 
 This repo is meant to complement other partially-complete attempts at creating a solution manual for Nielsen and Chuang, such as https://github.com/goropikari/SolutionForQuantumComputationAndQuantumInformation.
 
