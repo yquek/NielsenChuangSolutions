@@ -1,6 +1,6 @@
-# Non-official Solutions manual to Mike and Ike 
+# Mike and Ike Solutions manual
 
-The edition used here for problem numbering is Nielsen and Chuang's Quantum Computation and Quantum Information, 10th Anniversary Edition. 
+This is a non-official solutions manual to Nielsen and Chuang's Quantum Computation and Quantum Information. I use the 10th Anniversary Edition for problem numbering.
 
 This repo is meant to complement other partially-complete attempts at creating a solution manual for Nielsen and Chuang, such as https://github.com/goropikari/SolutionForQuantumComputationAndQuantumInformation.
 
