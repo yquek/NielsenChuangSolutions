@@ -1,4 +1,4 @@
-# Mike and Ike Solutions 
+# Nielsen and Chuang Solutions 
 
 This is a non-official, still expanding solution manual to Nielsen and Chuang's Quantum Computation and Quantum Information. I use the 10th Anniversary Edition for problem numbering.
 
