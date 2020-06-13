@@ -2,7 +2,7 @@
 
 This is a non-official, still expanding solution manual to Nielsen and Chuang's Quantum Computation and Quantum Information. I use the 10th Anniversary Edition for problem numbering.
 
-This repo is meant to complement other partially-complete attempts at creating a solution manual for Nielsen and Chuang, such as https://github.com/goropikari/SolutionForQuantumComputationAndQuantumInformation.
+This repo is meant to complement other partially-complete attempts at creating a solution manual for Nielsen and Chuang, such as https://github.com/goropikari/SolutionForQuantumComputationAndQuantumInformation and https://github.com/rehaanahmad2013/NielsenChuang-QuantumComputingSolutions.
 
 There is of course no guarantee that my solutions are correct. If you spot an error, please shoot me an email at yquek[at]stanford[dot]edu.
 
